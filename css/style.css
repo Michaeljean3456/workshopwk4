@@ -2,11 +2,13 @@ body{
     background-color: aqua;
     justify-content: center;
     text-align: center;
+    background-image: url("../Images/Resort-2.jpg");
+    
 }
 .container{
     border: 2px solid;
     width: fit-content;
     height: 520px;
-    background-color: white;
+    background-color: aqua;
  
 }
